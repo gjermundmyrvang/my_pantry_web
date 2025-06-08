@@ -1,6 +1,6 @@
-# Privacy Policy for My Pantry App
+# Privacy Policy for Private Pantry App
 
-My Pantry does not collect, store, or share any personal data.
+Private Pantry does not collect, store, or share any personal data.
 
 All your recipes are stored locally on your device and never transmitted to any server. The app does not use any analytics, tracking, or third-party data collection services.
 
