@@ -1,9 +1,11 @@
 # Privacy Policy for Private Pantry App
 
-Private Pantry does not collect, store, or share any personal data.
+Private Pantry stores certain user data to support its functionality. Specifically, your recipes and related content (such as titles, descriptions, ingredients, steps, and images) are securely stored using Supabase, a privacy-conscious backend service.
 
-All your recipes are stored locally on your device and never transmitted to any server. The app does not use any analytics, tracking, or third-party data collection services.
+We do not collect or share any personal identifiable information beyond what's necessary for app functionality. No analytics, tracking tools, or third-party marketing services are used.
 
-If you have any questions or concerns, please contact me at gjermundmyrvang@gmail.com
+Access to your data is restricted to your authenticated account and is not visible to other users.
+
+If you have any questions or concerns, please contact me at gjermundmyrvang@gmail.com.
 
 _Last updated: June 2025_
